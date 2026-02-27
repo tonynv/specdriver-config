@@ -1,0 +1,11 @@
+{
+  "version": "1",
+  "schema": "specdriver/workspace-manifest@1",
+  "workspace_id": "ws_gVizWV-xciJU",
+  "workspace_name": "test ws",
+  "created_at": "2026-02-27T16:27:03.664Z",
+  "source_of_truth": "main",
+  "config_repo": "tonynv/specdriver-config",
+  "sync_target": "_sd.spec/",
+  "release_baseline": "v0.0"
+}
